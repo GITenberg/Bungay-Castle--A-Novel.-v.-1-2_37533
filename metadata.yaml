@@ -20,6 +20,8 @@ description: "Bungay Castle is a gothic novel by Elizabeth Bonhôte. It was firs
   \ and has been praised in modern times for its proto-feminist sensibility. The young\
   \ women in the story keep their fates in their own hands, rather than wait for some\
   \ dashing hero to come to the rescue.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37533#Bungay-Castle--A-Novel.-v.-1-2
 gutenberg_issued: '2011-09-25'
 gutenberg_type: Text
 identifiers:
