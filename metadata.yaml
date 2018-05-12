@@ -1,0 +1,38 @@
+_repo: Bungay-Castle--A-Novel.-v.-1-2_37533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonhote, Mrs. (Elizabeth)
+    alias: Bonhote, Elizabeth
+    birthdate: 1744
+    deathdate: 1818
+    gutenberg_agent_id: '38902'
+    url: http://www.gutenberg.org/2009/agents/38902
+description: "Bungay Castle is a gothic novel by Elizabeth Bonhôte. It was first published\
+  \ in 1796 and follows the fortunes of the De Morney family at Bungay Castle in Suffolk.\
+  \ Two young members of the family, Roseline and Edwin, search for the source of\
+  \ strange, unearthly cries and discover a terrifying secret in the castle's bowels\
+  \ which will change their lives forever. The story combines the classic Gothic tropes\
+  \ of mystery, betrayal and a heroine in peril in suitably imposing surroundings\
+  \ and has been praised in modern times for its proto-feminist sensibility. The young\
+  \ women in the story keep their fates in their own hands, rather than wait for some\
+  \ dashing hero to come to the rescue.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2011-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37533'
+  wikidata: Q4997629
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 18th century'
+- !lcc 'PR'
+title: 'Bungay Castle: A Novel. v. 1/2'
+url: http://www.gutenberg.org/ebooks/37533
+wikipedia:
+- https://en.wikipedia.org/wiki/Bungay_Castle_(novel)
